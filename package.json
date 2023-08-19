@@ -1,0 +1,16 @@
+{
+  "name": "coffeemachine",
+  "version": "1.0.0",
+  "description": "dicoding project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Fallahi Bagaskara",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
